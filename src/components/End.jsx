@@ -21,7 +21,7 @@ export default function End (){
 
 
                 <div className= "aboutmedescrip">
-                    <h4>Thanks for reading! I'm always learning new things and exploring different internship opportunities. Chat with me about anything from UX Design to why dogs are superior to cats</h4>
+                    <h4>Thanks for reading! I'm always learning new things and exploring different internship opportunities. Chat with me about anything from UX Design to why dogs are superior to cats!</h4>
                     
                     <a href= "https://drive.google.com/file/d/1Pqs_HhOdH0GzoSyfLi4GrqGlQAzPxMe_/view?usp=sharing">
                         <button className="chat" type = "click">let's chat</button>

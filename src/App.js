@@ -46,7 +46,7 @@ const projectlist = [
 
       displayimg: "./projectlogos/atas.png",
 
-      btnlink: "https://www.behance.net/gallery/148259949/Advice-to-a-Scientist"
+      btnlink: "https://www.behance.net/gallery/151306735/ATAS"
 
 
   }, {
@@ -55,7 +55,7 @@ const projectlist = [
       description: "Helping student alumni stay in touch",
       btntext: "view case study",
       displayimg: "./projectlogos/memorii.png",
-      btnlink:"https://www.behance.net/gallery/148259949/Advice-to-a-Scientist"
+      btnlink:"https://www.behance.net/janewu21"
 
   }
 
