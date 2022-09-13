@@ -14,7 +14,7 @@ export default function Intro (){
             <div className = "split">
 
                 <div className = "intro-text">
-                    <h1>Hello I'm Jane,</h1>
+                    <h1>Hi I'm Jane,</h1>
 
                     <div className = "typewriter">
                     <Typewriter
