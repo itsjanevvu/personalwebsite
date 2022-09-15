@@ -39,7 +39,7 @@ export default function Intro (){
                        </a>
 
 
-                       <a href= "https://drive.google.com/file/d/1Pqs_HhOdH0GzoSyfLi4GrqGlQAzPxMe_/view?usp=sharing">
+                       <a href= "https://docs.google.com/document/d/1eKkqAL9AdAi64PXVN7sCSeWZBOyiFADnPt9-DvcDKSE/edit?usp=sharing">
                         <button className="btn resume" type = "click">Resume pdf</button>
                         </a>
                     </div>
